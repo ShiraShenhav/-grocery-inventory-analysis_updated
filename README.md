@@ -50,8 +50,7 @@ This project analyzes a comprehensive grocery inventory dataset to uncover insig
 ## 📁 Files Included
 
 - `grocery-inventory.ipynb`: Full analysis notebook
-- `grocery-inventory-updated.ipynb`: Final version including supplier analysis
-- `most_reliable_suppliers.csv`: Export of top suppliers per category
+- `Grocery_Inventory new v1.csv`: the dataset
 - `README.md`: Project overview (you are here)
 
 ---
